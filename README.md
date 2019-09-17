@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Jogo da velha criado em React. Primeiro projeto apenas aprendendo a usar o framework.
+
+Abaixo alguns scripts importantes caso queria rodar o app em sua máquina.
 
 ## Available Scripts
 
